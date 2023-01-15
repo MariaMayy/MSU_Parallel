@@ -1,9 +1,9 @@
 # MSU_Parallel
 Parallel programming course at CMC MSU
 ____________
-Course pages
-:link: Link: https://lira.imamod.ru/msu202209/
-:link: Link: https://caa.imamod.ru/index.php?id=30
+Course pages  
+:link: Link: https://lira.imamod.ru/msu202209/  
+:link: Link: https://caa.imamod.ru/index.php?id=30  
 
 | Directory | Description |
 |----------------|:---------:|
